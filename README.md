@@ -62,3 +62,9 @@ You can use any IRC client (e.g., **Irssi**, **HexChat**, or **WeeChat**) to con
 
 ```bash
 /server <host> <port> <password>
+```
+
+
+## Licence
+
+This project is licensed under the MIT License. See the LICENSE file for more information.
